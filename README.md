@@ -1,5 +1,7 @@
 # Custom Keybinds
 
+<img src="media/icon.png" alt="Custom Keybinds icon" width="128" height="128">
+
 Configure 26 vanilla action bindings; Ctrl+Home reloads.
 
 ## Install
