@@ -1,0 +1,14 @@
+{
+  "id": "custom-keybinds",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Custom Keybinds",
+  "backlog": "M07",
+  "feature_dependencies": [],
+  "gameplay": true,
+  "hotkey": "Ctrl+Home / Ctrl+End",
+  "play_help": [
+    "Configure 26 vanilla action bindings; Ctrl+Home reloads.",
+    "Gameplay testing is deferred; use a disposable Steam-only world."
+  ]
+}
